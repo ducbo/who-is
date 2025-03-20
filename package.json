@@ -40,7 +40,7 @@
     "tailwindcss-animate": "^1.0.7",
     "tldjs": "^2.3.1",
     "vaul": "^0.9.1",
-    "whois-raw": "^0.1.10"
+    "whois-raw": "https://github.com/ducbo/whois-raw"
   },
   "devDependencies": {
     "@types/node": "^20",
